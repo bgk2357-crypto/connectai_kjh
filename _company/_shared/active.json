@@ -1,0 +1,49 @@
+{
+  "_migrated": true,
+  "_migrated_v2": true,
+  "_migrated_v3": true,
+  "ceo": {
+    "activatedAt": "2026-11-15T05:25:51.274Z",
+    "seeded": true
+  },
+  "safety_pe": {
+    "activatedAt": "2026-11-15T07:50:00.000Z",
+    "seeded": true
+  },
+  "hygiene": {
+    "activatedAt": "2026-11-15T07:20:00.000Z",
+    "seeded": true
+  },
+  "ergonomics": {
+    "activatedAt": "2026-11-15T07:20:00.000Z",
+    "seeded": true
+  },
+  "nurse": {
+    "activatedAt": "2026-11-15T07:50:00.000Z",
+    "seeded": true
+  },
+  "doctor": {
+    "activatedAt": "2026-11-15T07:50:00.000Z",
+    "seeded": true
+  },
+  "researcher": {
+    "activatedAt": "2026-11-15T05:25:51.274Z",
+    "seeded": true
+  },
+  "writer": {
+    "activatedAt": "2026-11-15T05:25:51.274Z",
+    "seeded": true
+  },
+  "secretary": {
+    "activatedAt": "2026-11-15T05:25:51.274Z",
+    "seeded": true
+  },
+  "business": {
+    "activatedAt": "2026-11-15T05:25:51.274Z",
+    "seeded": true
+  },
+  "developer": {
+    "activatedAt": "2026-11-15T05:25:51.274Z",
+    "seeded": true
+  }
+}
